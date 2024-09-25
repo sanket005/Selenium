@@ -6,7 +6,6 @@ import org.testng.annotations.Test;
 public class ABC {
 	public void method() {
 		System.out.println(System.getProperty("user.dir"));
-System.out.println("1235");
 	}
 
 }
