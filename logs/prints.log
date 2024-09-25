@@ -1,146 +1,51 @@
-00:09:50.955 [main] DEBUG Tests.TestLogin - Entered the URL
-00:09:51.730 [main] DEBUG Tests.TestLogin - User enters the username
-00:09:51.874 [main] DEBUG Tests.TestLogin - User enters the pasword
-00:09:52.962 [main] DEBUG Tests.TestLogin - User clicked on Login button
-00:10:03.069 [main] DEBUG Tests.TestLogin - User is not logged in succesfully
-00:10:03.425 [main] INFO  Tests.TestLogin - Broser closed
-00:10:05.388 [main] INFO  Tests.TestLogin - Browser is launched
-00:10:11.934 [main] DEBUG Tests.TestLogin - Entered the URL
-00:10:12.629 [main] DEBUG Tests.TestLogin - User enters the username
-00:10:12.820 [main] DEBUG Tests.TestLogin - User enters the pasword
-00:10:14.289 [main] DEBUG Tests.TestLogin - User clicked on Login button
-00:10:14.949 [main] DEBUG Tests.TestLogin - User clicked on Profile icon
-00:10:35.144 [main] DEBUG Tests.TestLogin - User is not logged in succesfully
-00:10:35.279 [main] INFO  Tests.TestLogin - Broser closed
-00:11:50.175 [main] INFO  Tests.TestLogin - Browser is launched
-00:11:57.416 [main] DEBUG Tests.TestLogin - Entered the URL
-00:11:58.081 [main] DEBUG Tests.TestLogin - User enters the username
-00:11:58.227 [main] DEBUG Tests.TestLogin - User enters the pasword
-00:11:59.140 [main] DEBUG Tests.TestLogin - User clicked on Login button
-00:12:09.197 [main] DEBUG Tests.TestLogin - User is not logged in succesfully
-00:12:12.668 [main] INFO  Tests.TestLogin - Broser closed
-00:12:15.381 [main] INFO  Tests.TestLogin - Browser is launched
-00:12:21.637 [main] DEBUG Tests.TestLogin - Entered the URL
-00:12:22.351 [main] DEBUG Tests.TestLogin - User enters the username
-00:12:22.532 [main] DEBUG Tests.TestLogin - User enters the pasword
-00:12:22.632 [main] DEBUG Tests.TestLogin - User clicked on Login button
-00:12:24.394 [main] DEBUG Tests.TestLogin - User clicked on Profile icon
-00:12:44.577 [main] DEBUG Tests.TestLogin - User is not logged in succesfully
-00:12:45.110 [main] INFO  Tests.TestLogin - Broser closed
-00:16:46.822 [main] INFO  Tests.TestLogin - Browser is launched
-00:16:53.003 [main] DEBUG Tests.TestLogin - Entered the URL
-00:16:53.782 [main] DEBUG Tests.TestLogin - User enters the username
-00:16:54.042 [main] DEBUG Tests.TestLogin - User enters the pasword
-00:16:54.961 [main] DEBUG Tests.TestLogin - User clicked on Login button
-00:17:05.003 [main] DEBUG Tests.TestLogin - User is not logged in succesfully
-00:17:07.158 [main] INFO  Tests.TestLogin - Broser closed
-00:17:09.094 [main] INFO  Tests.TestLogin - Browser is launched
-00:17:15.397 [main] DEBUG Tests.TestLogin - Entered the URL
-00:17:16.042 [main] DEBUG Tests.TestLogin - User enters the username
-00:17:16.254 [main] DEBUG Tests.TestLogin - User enters the pasword
-00:17:17.557 [main] DEBUG Tests.TestLogin - User clicked on Login button
-00:17:18.241 [main] DEBUG Tests.TestLogin - User clicked on Profile icon
-00:17:38.341 [main] DEBUG Tests.TestLogin - User is not logged in succesfully
-00:17:38.853 [main] INFO  Tests.TestLogin - Broser closed
-00:19:43.639 [main] INFO  Tests.TestLogin - Browser is launched
-00:19:48.677 [main] DEBUG Tests.TestLogin - Entered the URL
-00:19:50.644 [main] DEBUG Tests.TestLogin - User enters the username
-00:19:51.556 [main] DEBUG Tests.TestLogin - User enters the pasword
-00:19:53.837 [main] DEBUG Tests.TestLogin - User clicked on Login button
-00:20:04.378 [main] DEBUG Tests.TestLogin - User is not logged in succesfully
-00:20:29.927 [main] INFO  Tests.TestLogin - Broser closed
-00:20:44.565 [main] INFO  Tests.TestLogin - Browser is launched
-00:20:48.565 [main] DEBUG Tests.TestLogin - Entered the URL
-00:20:49.484 [main] DEBUG Tests.TestLogin - User enters the username
-00:20:49.767 [main] DEBUG Tests.TestLogin - User enters the pasword
-00:20:51.775 [main] DEBUG Tests.TestLogin - User clicked on Login button
-00:20:52.977 [main] DEBUG Tests.TestLogin - User clicked on Profile icon
-00:21:13.337 [main] DEBUG Tests.TestLogin - User is not logged in succesfully
-00:21:17.750 [main] INFO  Tests.TestLogin - Broser closed
-00:22:58.502 [main] INFO  Tests.TestLogin - Browser is launched
-00:23:02.474 [main] DEBUG Tests.TestLogin - Entered the URL
-00:23:03.439 [main] DEBUG Tests.TestLogin - User enters the username
-00:23:03.584 [main] DEBUG Tests.TestLogin - User enters the pasword
-00:23:04.868 [main] DEBUG Tests.TestLogin - User clicked on Login button
-00:23:25.719 [main] DEBUG Tests.TestLogin - User is not logged in succesfully
-00:23:28.046 [main] INFO  Tests.TestLogin - Browser is launched
-00:23:34.119 [main] DEBUG Tests.TestLogin - Entered the URL
-00:23:34.839 [main] DEBUG Tests.TestLogin - User enters the username
-00:23:35.136 [main] DEBUG Tests.TestLogin - User enters the pasword
-00:23:36.131 [main] DEBUG Tests.TestLogin - User clicked on Login button
-00:23:46.169 [main] DEBUG Tests.TestLogin - User is not logged in succesfully
-00:26:05.162 [main] INFO  Tests.TestLogin - Browser is launched
-00:26:11.070 [main] DEBUG Tests.TestLogin - Entered the URL
-00:26:11.966 [main] DEBUG Tests.TestLogin - User enters the username
-00:26:12.170 [main] DEBUG Tests.TestLogin - User enters the pasword
-00:26:13.223 [main] DEBUG Tests.TestLogin - User clicked on Login button
-00:26:24.132 [main] INFO  Tests.TestLogin - Broser closed
-00:26:25.885 [main] INFO  Tests.TestLogin - Browser is launched
-00:26:32.283 [main] DEBUG Tests.TestLogin - Entered the URL
-00:26:32.867 [main] DEBUG Tests.TestLogin - User enters the username
-00:26:33.022 [main] DEBUG Tests.TestLogin - User enters the pasword
-00:26:34.438 [main] DEBUG Tests.TestLogin - User clicked on Login button
-00:26:35.102 [main] DEBUG Tests.TestLogin - User clicked on Profile icon
-00:26:35.233 [main] DEBUG Tests.TestLogin - User clicked on Profile icon
-00:26:55.418 [main] DEBUG Tests.TestLogin - User is not logged in succesfully
-00:26:55.510 [main] INFO  Tests.TestLogin - Broser closed
-00:31:26.356 [main] INFO  Tests.TestLogin - Browser is launched
-00:31:31.840 [main] DEBUG Tests.TestLogin - Entered the URL
-00:31:33.343 [main] DEBUG Tests.TestLogin - User enters the username
-00:31:33.625 [main] DEBUG Tests.TestLogin - User enters the pasword
-00:31:34.967 [main] DEBUG Tests.TestLogin - User clicked on Login button
-00:31:45.635 [main] INFO  Tests.TestLogin - Broser closed
-00:31:47.685 [main] INFO  Tests.TestLogin - Browser is launched
-00:31:53.588 [main] DEBUG Tests.TestLogin - Entered the URL
-00:31:54.326 [main] DEBUG Tests.TestLogin - User enters the username
-00:31:54.480 [main] DEBUG Tests.TestLogin - User enters the pasword
-00:31:55.835 [main] DEBUG Tests.TestLogin - User clicked on Login button
-00:31:56.572 [main] DEBUG Tests.TestLogin - User clicked on Profile icon
-00:31:57.013 [main] DEBUG Tests.TestLogin - User clicked on Profile icon
-00:31:57.386 [main] DEBUG Tests.TestLogin - User is logged in succesfully
-00:31:57.715 [main] INFO  Tests.TestLogin - Broser closed
-00:33:30.555 [main] INFO  Tests.TestLogin - Browser is launched
-00:33:33.979 [main] DEBUG Tests.TestLogin - Entered the URL
-00:33:36.871 [main] DEBUG Tests.TestLogin - User enters the username
-00:33:37.030 [main] DEBUG Tests.TestLogin - User enters the pasword
-00:33:37.131 [main] DEBUG Tests.TestLogin - User clicked on Login button
-00:33:48.353 [main] INFO  Tests.TestLogin - Broser closed
-00:33:50.129 [main] INFO  Tests.TestLogin - Browser is launched
-00:33:55.994 [main] DEBUG Tests.TestLogin - Entered the URL
-00:33:56.569 [main] DEBUG Tests.TestLogin - User enters the username
-00:33:56.798 [main] DEBUG Tests.TestLogin - User enters the pasword
-00:33:58.388 [main] DEBUG Tests.TestLogin - User clicked on Login button
-00:33:59.000 [main] DEBUG Tests.TestLogin - User clicked on Profile icon
-00:33:59.078 [main] DEBUG Tests.TestLogin - User clicked on Profile icon
-00:34:00.133 [main] DEBUG Tests.TestLogin - User is logged in succesfully
-00:34:00.433 [main] INFO  Tests.TestLogin - Broser closed
-00:36:52.255 [main] INFO  Tests.TestLogin - Browser is launched
-00:37:01.836 [main] DEBUG Tests.TestLogin - Entered the URL
-00:37:02.572 [main] DEBUG Tests.TestLogin - User enters the username
-00:37:02.721 [main] DEBUG Tests.TestLogin - User enters the pasword
-00:37:03.884 [main] DEBUG Tests.TestLogin - User clicked on Login button
-00:37:13.984 [main] DEBUG Tests.TestLogin - User is not logged in succesfully
-00:37:14.448 [main] INFO  Tests.TestLogin - Broser closed
-00:37:16.230 [main] INFO  Tests.TestLogin - Browser is launched
-00:37:22.198 [main] DEBUG Tests.TestLogin - Entered the URL
-00:37:22.875 [main] DEBUG Tests.TestLogin - User enters the username
-00:37:23.046 [main] DEBUG Tests.TestLogin - User enters the pasword
-00:37:24.731 [main] DEBUG Tests.TestLogin - User clicked on Login button
-00:37:25.358 [main] DEBUG Tests.TestLogin - User clicked on Profile icon
-00:37:26.323 [main] DEBUG Tests.TestLogin - User is logged in succesfully
-00:37:26.717 [main] INFO  Tests.TestLogin - Broser closed
-00:39:02.644 [main] INFO  Tests.TestLogin - Browser is launched
-00:39:08.256 [main] DEBUG Tests.TestLogin - Entered the URL
-00:39:08.876 [main] DEBUG Tests.TestLogin - User enters the username
-00:39:09.145 [main] DEBUG Tests.TestLogin - User enters the pasword
-00:39:10.246 [main] DEBUG Tests.TestLogin - User clicked on Login button
-00:39:20.292 [main] DEBUG Tests.TestLogin - User is not logged in succesfully
-00:39:23.100 [main] INFO  Tests.TestLogin - Broser closed
-00:39:24.751 [main] INFO  Tests.TestLogin - Browser is launched
-00:39:31.791 [main] DEBUG Tests.TestLogin - Entered the URL
-00:39:32.600 [main] DEBUG Tests.TestLogin - User enters the username
-00:39:32.731 [main] DEBUG Tests.TestLogin - User enters the pasword
-00:39:32.853 [main] DEBUG Tests.TestLogin - User clicked on Login button
-00:39:34.601 [main] DEBUG Tests.TestLogin - User clicked on Profile icon
-00:39:35.394 [main] DEBUG Tests.TestLogin - User is logged in succesfully
-00:39:35.621 [main] INFO  Tests.TestLogin - Broser closed
+11:58:49.185 [main] INFO  Tests.TestLogin - Browser is launched
+11:58:53.525 [main] DEBUG Tests.TestLogin - Entered the URL
+11:58:54.093 [main] DEBUG Tests.TestLogin - User enters the username
+11:58:54.193 [main] DEBUG Tests.TestLogin - User enters the pasword
+11:58:55.625 [main] DEBUG Tests.TestLogin - User clicked on Login button
+11:58:56.720 [main] DEBUG Tests.TestLogin - User is logged in succesfully
+11:58:58.461 [main] INFO  Tests.TestLogin - Browser is launched
+11:59:01.242 [main] DEBUG Tests.TestLogin - Entered the URL
+11:59:01.713 [main] DEBUG Tests.TestLogin - User enters the username
+11:59:01.830 [main] DEBUG Tests.TestLogin - User enters the pasword
+11:59:01.909 [main] DEBUG Tests.TestLogin - User clicked on Login button
+11:59:12.888 [main] DEBUG Tests.TestLogin - User is not logged in succesfully
+12:09:47.047 [main] INFO  Tests.TestLogin - Browser is launched
+12:09:50.088 [main] DEBUG Tests.TestLogin - Entered the URL
+12:09:50.604 [main] DEBUG Tests.TestLogin - User enters the username
+12:09:50.698 [main] DEBUG Tests.TestLogin - User enters the pasword
+12:09:50.768 [main] DEBUG Tests.TestLogin - User clicked on Login button
+12:10:01.631 [main] DEBUG Tests.TestLogin - User is not logged in succesfully
+12:10:02.647 [main] INFO  Tests.TestLogin - Broser closed
+12:10:03.934 [main] INFO  Tests.TestLogin - Browser is launched
+12:10:06.684 [main] DEBUG Tests.TestLogin - Entered the URL
+12:10:07.214 [main] DEBUG Tests.TestLogin - User enters the username
+12:10:07.362 [main] DEBUG Tests.TestLogin - User enters the pasword
+12:10:08.681 [main] DEBUG Tests.TestLogin - User clicked on Login button
+12:10:09.201 [main] DEBUG Tests.TestLogin - User clicked on Profile icon
+12:10:09.824 [main] DEBUG Tests.TestLogin - User is logged in succesfully
+12:10:09.972 [main] INFO  Tests.TestLogin - Broser closed
+12:17:11.624 [main] INFO  Tests.TestLogin - Browser is launched
+12:17:14.758 [main] DEBUG Tests.TestLogin - Entered the URL
+12:17:15.403 [main] DEBUG Tests.TestLogin - User enters the username
+12:17:15.555 [main] DEBUG Tests.TestLogin - User enters the pasword
+12:17:16.787 [main] DEBUG Tests.TestLogin - User clicked on Login button
+12:17:18.095 [main] DEBUG Tests.TestLogin - User is logged in succesfully
+12:17:19.411 [main] INFO  Tests.TestLogin - Browser is launched
+12:17:24.012 [main] DEBUG Tests.TestLogin - Entered the URL
+12:17:24.513 [main] DEBUG Tests.TestLogin - User enters the username
+12:17:24.597 [main] DEBUG Tests.TestLogin - User enters the pasword
+12:17:25.606 [main] DEBUG Tests.TestLogin - User clicked on Login button
+12:17:35.658 [main] DEBUG Tests.TestLogin - User is not logged in succesfully
+12:17:52.091 [main] INFO  Tests.TestLogin - Browser is launched
+12:17:54.483 [main] DEBUG Tests.TestLogin - Entered the URL
+12:17:54.980 [main] DEBUG Tests.TestLogin - User enters the username
+12:17:55.122 [main] DEBUG Tests.TestLogin - User enters the pasword
+12:17:55.231 [main] DEBUG Tests.TestLogin - User clicked on Login button
+12:17:58.091 [main] DEBUG Tests.TestLogin - User is logged in succesfully
+12:17:59.239 [main] INFO  Tests.TestLogin - Browser is launched
+12:18:02.031 [main] DEBUG Tests.TestLogin - Entered the URL
+12:18:02.638 [main] DEBUG Tests.TestLogin - User enters the username
+12:18:02.779 [main] DEBUG Tests.TestLogin - User enters the pasword
+12:18:03.743 [main] DEBUG Tests.TestLogin - User clicked on Login button
+12:18:13.862 [main] DEBUG Tests.TestLogin - User is not logged in succesfully

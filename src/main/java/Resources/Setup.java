@@ -2,6 +2,7 @@ package Resources;
 
 import java.io.File;
 import java.io.FileInputStream;
+import java.time.Duration;
 import java.util.Properties;
 import java.util.concurrent.TimeUnit;
 
@@ -20,6 +21,7 @@ public class Setup {
 	public Properties prop;
 	public String DestinationPath;
 
+	@SuppressWarnings("deprecation")
 	public WebDriver browserLaunch() {
 		try {
 			System.out.println("Start");
@@ -43,7 +45,7 @@ public class Setup {
 			break;
 		}
 		driver.manage().window().maximize();
-		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
+		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
 		return driver;
 	}
 	public String takeScreenshot(String testname, WebDriver driver) {
